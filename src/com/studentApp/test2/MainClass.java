@@ -1,4 +1,4 @@
-package com.studentApp;
+package com.studentApp.test2;
 
 public class MainClass {
 

@@ -1,4 +1,4 @@
-package com.studentApp;
+package com.studentApp.test2;
 
 import java.util.ArrayList;
 import java.util.Collections;
