@@ -170,7 +170,7 @@ public class Main {
 		studentList.removeIf(x -> x == null || x.getName() == null );// Make sure no null students are included in the list
 		
 		
-		//Jatin Code --> Comparator<Student> studentNameComparator = (o1, o2) -> o1.getName().compareTo(o2.getName());
+		//Comparator<Student> studentNameComparator = (o1, o2) -> o1.getName().compareTo(o2.getName());
 
 		/*
 		 * = new Comparator<Student>() {
